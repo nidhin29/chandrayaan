@@ -1,0 +1,40 @@
+.skill {
+    padding: 0 0 50px 0;
+    position: relative;
+  }
+  .skill-bx {
+    background: #151515;
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 50px;
+    margin-top: -60px;
+  }
+  .skill h2 {
+      font-size: 45px;
+      font-weight: 700;
+      color: white;
+  }
+  .skill h5
+    {
+        color: white;
+    }
+ 
+ 
+  .background-image-left {
+    top: 28%;
+    position: absolute;
+    bottom: 0;
+    width: 40%;
+    height: 110%;
+    
+    z-index: -4;
+  }
+  
+
+.carousel-indicators {
+    bottom: -33px !important;
+}
+.carousel-caption 
+{
+bottom: -1.8rem !important;
+}
