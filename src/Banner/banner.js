@@ -17,7 +17,7 @@ function Banner() {
                  </p>
             </Col>
             <Col xs={12} md={6} xl={5}>
-                <img src={headerImg} alt="Header Img" />
+                <img src={headerImg} alt="Header Img" className='img-fluid'/>
             </Col>
           </Row>
        </Container>
