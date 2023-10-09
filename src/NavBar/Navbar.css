@@ -17,6 +17,7 @@
     --bs-navbar-brand-color:white;
     --bs-navbar-toggler-border-color:white;
     background-color: transparent !important;
+    --bs-navbar-brand-hover-color:white;
   }
   
   .bg-initial.navbar{
@@ -27,6 +28,7 @@
     --bs-navbar-color:white;
     --bs-navbar-brand-color:white;
     --bs-navbar-toggler-border-color:white;
+    --bs-navbar-brand-hover-color:white;
   }
   
   .container{
